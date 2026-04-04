@@ -47,9 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhisheknehru&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheknehru&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+ <img align="center" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjEyc2o2djJ0c2Juem55anpybmQ1MDJudDBiM3RraWd2NHVvMjdjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rh0btaKsTkIIrls5yT/giphy.gif" />
 
 ---
 
