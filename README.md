@@ -8,9 +8,9 @@
 
 - 🎓 3rd year B.Tech IT @ KPRIET
 - 🤖 Robotics enthusiast — autonomous drones, SLAM, control systems
-- 🏁 LOS Drone Racer — competed in multiple events, won one
+- 🏁 LOS Drone Pilot — competed in multiple events, won one
 - 💻 Full-stack developer — mobile apps, cloud backends, APIs
-- 🌱 Currently deep into **LiDAR SLAM on UAV** and **RL-based self-balancing robots**
+
 
 ---
 
